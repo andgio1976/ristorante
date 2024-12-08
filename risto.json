@@ -1,1 +1,9 @@
-
+{
+  "menu":[
+    {
+      "nome":"Paella alla Valenciana",
+      "descrizione":"",
+      "prezzo":9.9,
+      "foto":"https://www.pescanova.it/wp-content/uploads/2021/09/paella-alla-valenciana.png"
+    }
+  ]
